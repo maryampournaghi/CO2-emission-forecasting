@@ -1,1 +1,1 @@
-# Move Python code into /notebooks folder.
+Delete misplaced CO2_forecasting.py from /data/notebooks directory.
